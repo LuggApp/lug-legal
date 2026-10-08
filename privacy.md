@@ -1,12 +1,12 @@
 # Privacy Policy
 
-**Last updated: 18 August 2026**
+**Last updated: 9 October 2026**
 
 This policy explains what information Lug collects, why, and what we do with it.
 
 Lug is operated by an individual developer based in Auckland, New Zealand. We handle personal information in accordance with the **New Zealand Privacy Act 2020**.
 
-Contact: **luggapp@proton.me**
+Contact: **support@lug.nz**
 
 ---
 
@@ -31,7 +31,8 @@ Contact: **luggapp@proton.me**
 
 ### Information collected automatically
 
-- **Location.** Lug uses your device's location to show Lugs near you and to place Lugs you post on the map. The location of a Lug you post is visible to other users. We do not track your location in the background or when the app is closed.
+- **Location.** Lug uses your device's location to show Lugs near you and to place Lugs you post on the map. When you post a Lug, its location is rounded to about 50 metres before it is stored, and other users see only that approximate spot. We do not track your location in the background or when the app is closed.
+- **Nearby alerts (optional).** If you turn on nearby alerts, we save a rough area for your account (to about 1 km, never your exact location) so we can tell you about Lugs posted near you. It is updated when you open Lug, deleted when you turn nearby alerts off, and automatically forgotten after 7 days without an update.
 - **Device identifier.** We collect Apple's Identifier for Vendor (IDFV) — a value your device provides to us that does not identify you personally and cannot be linked to you outside this app. We use it for one purpose only: to detect when a banned user creates a new account on the same device. See "Device identifiers and bans" below.
 - **Push notification token.** If you enable notifications, we store a token so we can send them. This is deleted when you delete your account.
 - **Anonymous account identifier.** A randomly generated ID that represents your account. It is not linked to your identity.
@@ -75,11 +76,12 @@ If your account was never suspended or banned, no device identifier is retained 
 
 ## Who can see your information
 
-- **Other users** can see your display name, avatar, ratings, and any Lugs or messages you post. The location of a Lug you post is visible on the map.
-- **We** can access data stored in the app in order to operate it, investigate reports, and enforce our guidelines.
+- **Other users** can see your display name, avatar, ratings, and any Lugs you post, including a Lug's approximate location on the map. Chat messages are visible only to the people taking part in that Lug's chat.
+- **We** can access data stored in the app in order to operate it, investigate reports, and enforce our guidelines. If a conversation is reported, we may review it to investigate the report.
 - **Supabase**, our database and hosting provider, stores this data on our behalf.
 - **OpenAI** receives text you post (Lug descriptions, chat messages, display names) for automated moderation screening. It is used only to check the content against safety categories.
 - **Expo** handles push notification delivery if you have enabled notifications.
+- **Resend** delivers safety-report alert emails to us. These emails contain the details of the report.
 
 We do not sell your information. We do not share it for advertising.
 
@@ -99,6 +101,7 @@ Your data is stored on servers operated by our providers, which may be located o
 - **Messages** — messages you sent are anonymised when you delete your account, so conversations remain readable for the other person.
 - **Lugs you posted** — reassigned to a placeholder account so other users' history stays intact.
 - **Device identifiers of banned accounts** — kept indefinitely, as explained above.
+- **Nearby alerts area** — until you turn nearby alerts off, or 7 days after it was last updated, whichever comes first.
 - **Reports** — kept for safety and moderation purposes.
 
 ---
@@ -118,7 +121,7 @@ Under the New Zealand Privacy Act 2020 you have the right to:
 - **Access** the personal information we hold about you
 - **Correct** it if it is wrong
 
-Because Lug is anonymous, we may not be able to identify which information relates to you unless you can tell us your account identifier. Contact **luggapp@proton.me** and we will help where we can.
+Because Lug is anonymous, we may not be able to identify which information relates to you unless you can tell us your account identifier. Contact **support@lug.nz** and we will help where we can.
 
 You can delete your account at any time from within the app.
 
@@ -128,7 +131,7 @@ You can delete your account at any time from within the app.
 
 Lug is for people aged 18 and over. We do not knowingly collect information from anyone under 18. If we become aware that we have, we will delete the account.
 
-If you believe a child is using Lug, contact **luggapp@proton.me**.
+If you believe a child is using Lug, contact **support@lug.nz**.
 
 ---
 
@@ -148,7 +151,7 @@ We may update this policy. The "last updated" date shows when it last changed. S
 
 If you have a question or concern about privacy, contact us first:
 
-**luggapp@proton.me**
+**support@lug.nz**
 
 If you are not satisfied with our response, you can complain to the **Office of the Privacy Commissioner**:
 
