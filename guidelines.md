@@ -1,12 +1,12 @@
 # Community Guidelines
 
-**Last updated: 18 August 2026**
+**Last updated: 9 October 2026**
 
 Lug works because people show up, help out, and treat each other decently. These guidelines set out what we expect. They apply to everything on Lug â€” Lug posts, gatherings, chat messages, display names, and how you behave when you meet someone in person.
 
 Breaking these guidelines can get your content removed and your account suspended or banned.
 
-To report someone or something, use the report option in the app, or email **luggapp@proton.me**.
+To report someone or something, use the report option in the app, or email **support@lug.nz**.
 
 ---
 
@@ -74,7 +74,7 @@ Lug puts you in touch with strangers. Please look after yourself:
 - **Do not share** your home address, financial details, or identity documents in chat
 - **Do not go anywhere** you would not go alone
 
-If you feel unsafe or something happens that worries you, contact us at **luggapp@proton.me**. If you are in immediate danger, call **111**.
+If you feel unsafe or something happens that worries you, contact us at **support@lug.nz**. If you are in immediate danger, call **111**.
 
 ---
 
@@ -92,6 +92,8 @@ Gatherings are group events. The same rules apply, plus:
 
 You can report any Lug, message, or user from within the app.
 
+You can report a user or content at any time with the Report and Block tools in the app, or by emailing **support@lug.nz**. We review every report and act on violations, including removing content and suspending or banning the users responsible, within 24 hours.
+
 When we receive a report, we may:
 
 - remove the content
@@ -107,7 +109,7 @@ We use automated moderation to screen text posted on Lug. This is not perfect â€
 
 ## Contact
 
-**luggapp@proton.me**
+**support@lug.nz**
 
 For safety concerns, please say so in the subject line so we can prioritise it.
 
