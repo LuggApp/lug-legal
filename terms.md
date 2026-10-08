@@ -1,10 +1,10 @@
 # Terms of Service
 
-**Last updated: 18 August 2026**
+**Last updated: 9 October 2026**
 
 Welcome to Lug. These Terms of Service ("Terms") govern your use of the Lug mobile application ("Lug", "the app", "we", "us"). By using Lug, you agree to these Terms. If you do not agree, do not use the app.
 
-Lug is operated by an individual developer based in Auckland, New Zealand. You can contact us at **luggapp@proton.me**.
+Lug is operated by an individual developer based in Auckland, New Zealand. You can contact us at **support@lug.nz**.
 
 ---
 
@@ -16,7 +16,7 @@ Lug connects people who arrange to meet in person. Because of this, we do not pe
 
 By using Lug you confirm that you are at least 18 years old. If we become aware that a user is under 18, we will suspend or remove their account.
 
-If you believe a Lug user is under 18, please report it to **luggapp@proton.me**.
+If you believe a Lug user is under 18, please report it to **support@lug.nz**.
 
 ---
 
@@ -80,6 +80,10 @@ We use automated moderation to screen text, and we may review reported content. 
 
 We may keep records of removed content and suspended accounts for safety and moderation purposes.
 
+**Zero tolerance.** There is no tolerance on Lug for objectionable content or abusive behaviour. You must not post or send anything offensive, harassing, threatening, hateful, sexually explicit or otherwise objectionable, and you must not harass, threaten or abuse other users.
+
+**Reporting.** You can report a user or content at any time with the Report and Block tools in the app, or by emailing **support@lug.nz**. We review every report and act on violations, including removing content and suspending or banning the users responsible, within 24 hours.
+
 ---
 
 ## 7. Suspension and termination
@@ -135,6 +139,6 @@ These Terms are governed by the laws of New Zealand. Any dispute will be dealt w
 
 Questions, concerns, reports, or complaints:
 
-**luggapp@proton.me**
+**support@lug.nz**
 
-We aim to respond to safety reports promptly.
+We review safety reports and act on violations within 24 hours.
